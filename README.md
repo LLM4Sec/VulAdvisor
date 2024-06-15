@@ -1,4 +1,4 @@
-#  Developer-Centric Suggestion Generation for Software Vulnerability Repair
+#  Natural Language Suggestion Generation for Software Vulnerability Repair
 
 ## Requirements
 + importlib-metadata<5.0  
